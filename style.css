@@ -1,0 +1,25 @@
+p{
+    color:red;
+}
+h1{
+    font-family:"Arial";
+    font-size:22px;
+}
+body{
+    background-color:lightblue;
+}
+.programstycke{
+    background-color:purple; 
+    color: pink ;
+    text-align:center;}
+.tankar{
+    text-align:right;}
+a{ 
+    text-decoration:none
+}
+.KAMEL{
+    border-width:15;
+        border-color:brown;
+    border-style:dotted
+   
+}
